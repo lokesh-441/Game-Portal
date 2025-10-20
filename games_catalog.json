@@ -1,0 +1,38 @@
+[
+    {
+        "id": "Flames-Calculator",
+        "title": "Flames Calculator",
+        "link": "https://lokesh-441.github.io/flames.1/", 
+        "description": "A fun web app to calculate relationship compatibility using the FLAMES method.",
+        "tags": ["LoveCalculator", "RelationshipGamen", "FunPrediction"],
+        "thumbnail": "images/Flames Calculator.jpg", 
+        "github_url": "https://github.com/lokesh-441/flames.1.git"
+    },
+    {
+        "id": "ball-sort-puzzle",
+        "title": "Ball Sort Puzzle",
+        "link": "https://lokesh-441.github.io/Ball-sort-puzzle-pro/",
+        "description": "A colorful ball-sorting puzzle where you arrange balls by color into tubes.",
+        "tags": ["Puzzle", "Logic", "2D"],
+        "thumbnail": "images/ballsortpuzzle.jpg",
+        "github_url": "https://github.com/lokesh-441/Ball-sort-puzzle-pro.git"
+    },
+    {
+        "id": "ultimate-pro-snake",
+        "title": "Ultimate Pro Snake",
+        "link": "https://lokesh-441.github.io/snake-game/",
+        "description": "Classic Snake game with power-ups and increasing difficulty.",
+        "tags": ["ClassicArcade", "SnakeGame", "EndlessChallenge"],
+        "thumbnail": "images/ultimate pro snake game.jpg",
+        "github_url": "https://github.com/lokesh-441/snake-game.git"
+    },
+    {
+        "id": "Block-Blast",
+        "title": "Block Blast",
+        "link": "https://lokesh-441.github.io/block-blast/",
+        "description": "Match and blast blocks to clear levels in this addictive puzzle game!",
+        "tags": ["Puzzle", "Block Matching", "Brain Teaser"],
+        "thumbnail": "images/block blast.jpg",
+        "github_url": "https://github.com/lokesh-441/block-blast.git"
+    }
+]
